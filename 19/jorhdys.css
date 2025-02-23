@@ -1,20 +1,20 @@
-.controller.ds4 {
-    background: url(base.png);
+.controller.ds5 {
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/19/base.png);
     height: 698px;
     width: 1200px;
     /*    margin-left: -403px;
         margin-top: -280px;*/
 }
 
-.ds4.disconnected {
-    background: url(disconnect.gif);
+.ds5.disconnected {
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/19/Disconnect.png);
 }
 
-.ds4.disconnected div {
+.ds5.disconnected div {
     display: none;
 }
 
-.ds4 .triggers {
+.ds5 .triggers {
     width: 598px;
     height: 90px;
     position: absolute;
@@ -22,31 +22,31 @@
     top: 126px;
 }
 
-.ds4 .trigger {
+.ds5 .trigger {
     width: 99px;
     height: 100%;
-    background: url(Trigger_Pressed.png);
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/19/Trigger_Pressed.png);
     opacity: 0;
 }
 
-.ds4 .trigger.left {
+.ds5 .trigger.left {
     float: left;
     margin-left: 96px;
 }
 
-.ds4 .trigger.right {
+.ds5 .trigger.right {
     float: right;
     background-position-x: 99px;
 }
 
-.ds4 .bumper {
+.ds5 .bumper {
     width: 200px;
     height: 45px;
-    background: url(Bumper.png) no-repeat;
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/19/Bumper.png) no-repeat;
     opacity: 0;
 }
 
-.ds4 .bumpers {
+.ds5 .bumpers {
     position: absolute;
     width: 672px;
     height: 23px;
@@ -54,23 +54,23 @@
     top: 205px;
 }
 
-.ds4 .bumper.pressed {
+.ds5 .bumper.pressed {
     opacity: 0.8;
 }
 
-.ds4 .bumper.left {
+.ds5 .bumper.left {
     /* -webkit-transform: rotateY(180deg); */
     /* transform: rotateY(180deg); */
     float: left;
 }
 
-.ds4 .bumper.right {
+.ds5 .bumper.right {
     float: right;
     transform: rotateY(180deg);
 	margin-right: 125px;
 }
 
-.ds4 .touchpad {
+.ds5 .touchpad {
     width: 350px;
     height: 300px;
     position: absolute;
@@ -78,11 +78,11 @@
     top: 74px;
 }
 
-.ds4 .touchpad.pressed {
-    background: url(Touchpad.png) no-repeat center;
+.ds5 .touchpad.pressed {
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/19/touch.png)
 }
 
-.ds4 .meta {
+.ds5 .meta {
     width: 100px;
     height: 100px;
     position: absolute;
@@ -90,23 +90,23 @@
     bottom: 264px;
 }
 
-.ds4 .meta.pressed {
+.ds5 .meta.pressed {
     background: url(Home.png) no-repeat center;
 }
 
-.ds4 .p0{
+.ds5 .p0{
 background-position: 0 -6px;
 }
-.ds4 .p1{
+.ds5 .p1{
 background-position: 0 -28px;
 }
-.ds4 .p2{
+.ds5 .p2{
 background-position: 0 -49px;
 }
-.ds4 .p3{
+.ds5 .p3{
 background-position: 0 -70px;
 }*/
-.ds4 .arrows {
+.ds5 .arrows {
     position: absolute;
     width: 352px;
     height: 46px;
@@ -114,42 +114,41 @@ background-position: 0 -70px;
     left: 227px;
 }
 
-.ds4 .back, .ds4 .start {
+.ds5 .back, .ds5 .start {
     background: url(Select.png);
     width: 26px;
     height: 43px;
     opacity: 0;
 }
-.ds4 .start {
+.ds5 .start {
     position: absolute;
     left: 546px;
     bottom: -30px;
 }
-.ds4 .back {
+.ds5 .back {
     position: absolute;
     left: 170px;
     bottom: -30px;
 }
 
-
-.ds4 .back.pressed, .ds4 .start.pressed {
+.ds5 .back.pressed, .ds5 .start.pressed {
     /* background-position-y: -21px; */
     /* margin-top: 2px; */
     opacity: 1;
 }
 
-.ds4 .back {
+.ds5 .back {
     float: left;
     /* width: 28px; */
 }
 
-.ds4 .start {
+.ds5 .start {
     float: right;
     /* width: 28px; */
     background-position: 0px 0;
 }
 
-.ds4 .abxy {
+.ds5 .abxy {
     position: absolute;
     width: 170px;
     height: 171px;
@@ -157,42 +156,42 @@ background-position: 0 -70px;
     left: 723px;
 }
 
-.ds4 .button {
+.ds5 .button {
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(facebuttons.png);
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/19/facebuttons.png);
 }
 
-.ds4 .button.pressed {
+.ds5 .button.pressed {
     background-position-y: 55px;
     /* margin-top: 5px; */
 }
 
-.ds4 .a {
+.ds5 .a {
     background-position: 0 0;
     bottom: 10px;
     left: 48px;
 }
 
-.ds4 .b {
+.ds5 .b {
     background-position: -57px 0;
     top: 58px;
     right: 22px;
 }
 
-.ds4 .x {
+.ds5 .x {
     background-position: -113px 0;
     top: 57px;
 }
 
-.ds4 .y {
+.ds5 .y {
     background-position: 55px 0;
     left: 49px;
     bottom: 106px;
 }
 
-.ds4 .sticks {
+.ds5 .sticks {
     position: absolute;
     width: 364px;
     height: 105px;
@@ -200,32 +199,32 @@ background-position: 0 -70px;
     left: 422px;
 }
 
-.ds4 .stick {
+.ds5 .stick {
     position: absolute;
-    background: url(Sticks.png);
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/19/Sticks.png);
     height: 94px;
     width: 94px;
 }
 
-.ds4 .stick.pressed.left {
+.ds5 .stick.pressed.left {
     background-position-x: -96px;
 }
 
-.ds4 .stick.pressed.right {
+.ds5 .stick.pressed.right {
     background-position-x: -192px;
 }
 
-.ds4 .stick.left {
+.ds5 .stick.left {
     top: 21px;
     left: 25px;
 }
 
-.ds4 .stick.right {
+.ds5 .stick.right {
     top: 21px;
     left: 233px;
 }
 
-.ds4 .dpad {
+.ds5 .dpad {
     position: absolute;
     width: 125px;
     height: 126px;
@@ -233,50 +232,50 @@ background-position: 0 -70px;
     left: 339px;
 }
 
-.ds4 .face {
-    background: url(Dpad.png);
+.ds5 .face {
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/19/Dpad.png);
     position: absolute;
 }
 
-.ds4 .face.up, .ds4 .face.down {
+.ds5 .face.up, .ds5 .face.down {
     width: 37px;
     height: 52px;
 }
 
-.ds4 .face.left, .ds4 .face.right {
+.ds5 .face.left, .ds5 .face.right {
     width: 52px;
     height: 40px;
 }
 
-.ds4 .face.up {
+.ds5 .face.up {
     left: 40px;
     top: 7px;
     background-position: -37px 0px;
 }
 
-.ds4 .face.down {
+.ds5 .face.down {
     left: 39px;
     bottom: 7px;
     background-position: 0px 0;
 }
 
-.ds4 .face.left {
+.ds5 .face.left {
     top: 45px;
     left: 0;
     background-position: 104px 0;
 }
 
-.ds4 .face.right {
+.ds5 .face.right {
     top: 44px;
     right: 11px;
     background-position: 52px 0;
 }
 
-.ds4 .face.pressed {
+.ds5 .face.pressed {
     /* margin-top: 5px; */
     background-position-y: 52px;
 }
 
-.ds4.half {
+.ds5.half {
     margin-top: -300px;
 }
