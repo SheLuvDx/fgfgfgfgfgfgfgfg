@@ -1,14 +1,14 @@
 /*BEGIN PS5 Controller Styling*/
 
 .controller.custom{
-    background: url(base.gif); 
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/RRR/base.png); 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom.disconnected { 
-    background: url(disconnected.gif);
+    background: url(disconnected.png);
 }
 
 .custom.disconnected div {
@@ -29,7 +29,7 @@
 .custom .trigger.left{ 
     height: 755px;
     width: 945px;
-    background: url(L2.png);
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/L2.png);
     position: absolute;
     background-repeat:no-repeat;
 }
@@ -37,7 +37,7 @@
 .custom .trigger.right{
     height: 755px;
     width: 945px;
-    background: url(R2.png);
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/R2.png);
     position: absolute;
     background-repeat:no-repeat;
 }
@@ -53,7 +53,7 @@
 .custom .bumper.right{
     height: 755px;
     width: 945px;
-    background: url(R1.png);
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/R1.png);
     position: absolute;
     background-repeat:no-repeat;
 }
@@ -61,7 +61,7 @@
 .custom .bumper.left{
     height: 755px;
     width: 945px;
-    background: url(L1.png);
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/L1.png);
     position: absolute;
     background-repeat:no-repeat;
 }
@@ -90,7 +90,7 @@
     width: 945px;
     left: -291px;
     top: -250px;
-    background: url(Share.png);
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/Share.png);
     position: absolute;
     opacity: 1;
 } 
@@ -100,7 +100,7 @@
     width: 945px;
     left: -291px;
     top: -250px;
-    background: url(Options.png);
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/Options.png);
     opacity: 1;
 }
 
@@ -119,35 +119,35 @@
 }
 
 .custom .a.pressed{
-    background: url(X.png); 
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/X.png); 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom .b.pressed{
-    background: url(O.png);
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/O.png);
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom .x.pressed{
-    background: url(S.png); 
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/S.png); 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom .y.pressed{
-    background: url(T.png) ; 
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/T.png) ; 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom .meta.pressed{
-    background: url(meta.png) ; 
+    background: url(https://huntersdesigns.github.io/Ps5%20v2/lazoli/meta.png) ; 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
@@ -166,7 +166,7 @@
 
 .custom .stick.pressed.left{
     position: absolute;
-    background: url(L3.png);
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/RRR/L3.png);
     height: 106px;
     width: 106px;
     background-repeat:no-repeat;
@@ -174,7 +174,7 @@
 
 .custom .stick.pressed.right{
     position: absolute;
-    background: url(R3.png);
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/RRR/R3.png);
     height: 106px;
     width: 106px;
     background-repeat:no-repeat;
@@ -182,7 +182,7 @@
 
 .custom .stick.left{
     position: absolute;
-    background: url(LS.png);
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/RRR/LS.png);
     height: 106px;
     width: 106px;
     background-repeat:no-repeat;
@@ -190,7 +190,7 @@
 
 .custom .stick.right{
     position: absolute;
-    background: url(RS.png);
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/RRR/L3.png);
     left: 289px;
     height: 106px;
     width: 106px;
@@ -209,39 +209,32 @@
 }
 
 .custom .face.right.pressed{
-    background: url(RIGHT.png); 
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/RRR/RIGHT.png); 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom .face.left.pressed{
-    background: url(LEFT.png); 
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/RRR/LEFT.png); 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom .face.up.pressed{
-    background: url(UP.png); 
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/RRR/UP.png); 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
 .custom .face.down.pressed{ 
-    background: url(DOWN.png); 
+    background: url(https://sheluvdx.github.io/fgfgfgfgfgfgfgfg/RRR/DOWN.png); 
     height: 755px;
     width: 945px;
     background-repeat:no-repeat;
 }
 
-.custom .touchpad.pressed{
-    position:absolute;
-    height: 755px;
-    width: 945px;
-    background: url(touchpad.png);
-    background-repeat:no-repeat;
-}
 
 /*END PS5 Controller Styling*/
